@@ -12,3 +12,9 @@ h3{
     color:orange;
     background-color: springgreen;
 }
+div p{
+    color: salmon;
+}
+div{
+    background-color: blue;
+}
